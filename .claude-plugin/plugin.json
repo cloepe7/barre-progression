@@ -1,0 +1,9 @@
+{
+  "name": "barre-progression",
+  "version": "0.1.0",
+  "description": "Barre de progression au-dessus du champ de saisie : étapes de la tâche en cours, étape active et dernière action de Claude.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "cloepe7"
+  }
+}

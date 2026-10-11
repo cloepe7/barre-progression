@@ -1,0 +1,5 @@
+{
+  "name": "barre-progression",
+  "owner": { "name": "cloepe7" },
+  "plugins": [{ "name": "barre-progression", "source": "./" }]
+}
